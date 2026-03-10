@@ -1,5 +1,6 @@
 # 🌟 PipeWire
 
+
 <br><br>
 
 
@@ -7,7 +8,7 @@
 
 <br>
 
-input, output — Here are presets for improving microphone and output sound, removing noise, and enhancing quality, these universal presets are suitable for games, music, and more
+pipewire — 
 
 <br>
 
@@ -20,7 +21,13 @@ input, output — Here are presets for improving microphone and output sound, re
 
 ## 🧰 Installation
 
+[Download setup](https://github.com/cppandpython/pipewire/blob/main/setup)
 
+```bash
+# Launch
+chmod +x setup
+./setup
+```
 
 
 <br><br><br>
@@ -30,7 +37,7 @@ input, output — Here are presets for improving microphone and output sound, re
 
 <br>
 
-input, output — Здесь представлены пресеты для улучшения звука микрофона и выхода, устранения шумов и повышения его качества, универсальные пресеты подходят для игр, музыки и многое другое
+pipewire
 
 <br>
 
@@ -43,3 +50,10 @@ input, output — Здесь представлены пресеты для ул
 
 ## 🧰 Установка
 
+[Скачать setup](https://github.com/cppandpython/pipewire/blob/main/setup)
+
+```bash
+# Запуск
+chmod +x setup
+./setup
+```
