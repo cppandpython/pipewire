@@ -10,14 +10,16 @@
 
 pipewire — A high-performance C++ automated installer that optimizes your Linux audio stack for professional quality
 
-It replaces standard configurations with audiophile-grade settings: S32LE format, 48kHz sample rate, and the legendary Shibata dithering algorithm.
+It replaces standard configurations with audiophile-grade settings: S32LE format, 48kHz sample rate, and the legendary Shibata dithering algorithm
 
 <br>
 
 ## 🚀 Features
 
-- ✅ Versatility and quality
-- ⚙️ Low latency
+- ✅ Audiophile Quality: Forced 32-bit Integer (S32LE) and 48kHz for bit-perfect mixing
+- ⚙️ Ultra-Low Latency: Optimized quantum (512) for a stable ~10.6ms buffer
+- 💎 Superior Resampling: Uses resample.quality = 10 and Shibata noise shaping
+- 🛠 Zero-Config: Automatically detects PipeWire, writes user configs, and restarts services
 
 <br>
 
